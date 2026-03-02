@@ -2,11 +2,10 @@
 <h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast | Building Beautiful Web Experiences</h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">💼 LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO.com">🌐 Portfolio</a>
+  <a href="dezimoewi@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ewi-dezimo-5306b0379/">💼 LinkedIn</a> •
 </p>
-
+https://www.linkedin.com/in/ewi-dezimo-5306b0379/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dezimoewi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -20,7 +19,7 @@ I'm a passionate **Full-Stack Developer** focused on building responsive, user-f
 - 🔭 Currently working on: improving my full-stack skills
 - 🌱 Learning: React.js, Node.js & REST APIs
 - 💬 Ask me about: JavaScript, HTML/CSS, DOM manipulation
-- 📫 Reach me at: **YOUR_EMAIL@gmail.com**
+- 📫 Reach me at: **dezimoewi@gmail.com**
 - 🟢 **Open to Work** — Available for frontend roles, internships & freelance projects
 
 ---
