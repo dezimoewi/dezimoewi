@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast | Building Beautiful Web Experiences</h3>
 
 <p align="center">
-  <a href="dezimoewi@gmail.com">📧 Email</a> •
+  <a href="mailto:dezimoewi@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ewi-dezimo-5306b0379/">💼 LinkedIn</a> •
 </p>
 
