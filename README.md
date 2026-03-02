@@ -1,8 +1,5 @@
-## Hi there 👋
-
-<!--
-**dezimoewi/dezimo<h1 align="center">👋 Hi, I'm Ewi Kisito</h1>
-<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Building Beautiful Web Experiences</h3>
+<h1 align="center">👋 Hi, I'm Ewi Kisito</h1>
+<h3 align="center">Full-Stack Web Developer | JavaScript Enthusiast | Building Beautiful Web Experiences</h3>
 
 <p align="center">
   <a href="mailto:YOUR_EMAIL@gmail.com">📧 Email</a> •
@@ -18,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** focused on building responsive, user-friendly web applications using modern JavaScript. I love turning ideas into clean, interactive interfaces.
+I'm a passionate **Full-Stack Developer** focused on building responsive, user-friendly web applications using modern JavaScript. I love turning ideas into clean, interactive interfaces.
 
 - 🔭 Currently working on: improving my full-stack skills
 - 🌱 Learning: React.js, Node.js & REST APIs
@@ -64,16 +61,4 @@ I'm a passionate **Frontend Developer** focused on building responsive, user-fri
 
 ---
 
-<p align="center">💡 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>ewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">💡 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i></p>
