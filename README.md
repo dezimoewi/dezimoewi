@@ -5,7 +5,7 @@
   <a href="dezimoewi@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ewi-dezimo-5306b0379/">💼 LinkedIn</a> •
 </p>
-https://www.linkedin.com/in/ewi-dezimo-5306b0379/
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dezimoewi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
