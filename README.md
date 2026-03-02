@@ -20,7 +20,7 @@ I'm a passionate **Full-Stack Developer** focused on building responsive, user-f
 - 🌱 Learning: React.js, Node.js & REST APIs
 - 💬 Ask me about: JavaScript, HTML/CSS, DOM manipulation
 - 📫 Reach me at: **dezimoewi@gmail.com**
-- 🟢 **Open to Work** — Available for frontend roles, internships & freelance projects
+- 🟢 **Open to Work**: Available for frontend roles, internships & freelance projects
 
 ---
 
@@ -56,7 +56,7 @@ I'm a passionate **Full-Stack Developer** focused on building responsive, user-f
 <table>
   <tr>
     <td align="center">💼</td>
-    <td><strong>Full-time Roles</strong> — Frontend, Backend, or Fullstack Developer positions</td>
+    <td><strong>Full-time Roles</strong>: Frontend, Backend, or Fullstack Developer positions</td>
   </tr>
   <tr>
     <td align="center">🌍</td>
@@ -108,16 +108,16 @@ I'm a passionate **Full-Stack Developer** focused on building responsive, user-f
 
 ### 🎬 Movie Database App
 
-**❓ Problem Statement**
+** Problem Statement**
 Finding and exploring movie information is scattered across multiple platforms with inconsistent UI, making it hard for users to quickly search, browse, and get details about films they care about.
 
-**✅ Solution**
+** Solution**
 Built a clean, responsive Movie Database web app that lets users search for any movie in real time, view detailed information including ratings, release dates, and descriptions — all from a single, intuitive interface powered by a public movie API.
 
 | | |
 |---|---|
 | 📁 **Repository** | [github.com/dezimoewi/movie-db-app](https://github.com/dezimoewi/movie-db-app) |
-| 🚀 **Live Demo** | [your-movie-app.vercel.app](https://your-movie-app.vercel.app) *(replace with real link)* |
+| 🚀 **Live Demo** | [your-movie-app.vercel.app](https://your-movie-app.vercel.app) |
 
 **🛠️ Stacks Used**
 
@@ -130,10 +130,10 @@ Built a clean, responsive Movie Database web app that lets users search for any 
 
 ### 🏖️ Touristic Site
 
-**❓ Problem Statement**
+** Problem Statement**
 Local tourism destinations often lack a proper digital presence, making it difficult for travelers to discover beautiful locations, plan visits, or get relevant details before arriving.
 
-**✅ Solution**
+** Solution**
 Designed and built a visually appealing tourism website that showcases destinations with rich imagery, location highlights, and a clean responsive layout — making it easy for travelers to explore and plan their trips.
 
 | | |
